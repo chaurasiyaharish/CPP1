@@ -1,0 +1,27 @@
+h1{
+    font-size: 60px;
+    font-style: bold;
+}
+.para{
+    font-weight: bold;
+    text-decoration-color: aqua;
+}
+.container h1{
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-style: wavy;
+    text-shadow: px 15px px blue;
+    text-align: center;
+}
+.container ul li{
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-style: wavy;
+    font-size: 30px;
+    background-color: yellow;
+}
+.container button{
+    background-color: aqua;
+    color: brown;
+    text-align: center;
+}
