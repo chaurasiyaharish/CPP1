@@ -1,0 +1,44 @@
+/* .parent{
+    display: flex;
+    background-color: aqua;
+    justify-content: center;
+    gap: 40px;
+    padding: 30px;
+    align-items: center;
+} */
+/* .ch2{
+    padding: 0px;
+    
+} */
+/* .parent{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+    padding: 30px;
+    height: 250px;
+    width: 150px; */
+/* parent{
+    border: 50px;
+
+}. */
+body{
+    
+    width: 100%;
+    padding: 29px;
+    margin: 28px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(2, 63, 63);
+    align-items: center;
+    color: rgb(136, 240, 8);
+    
+
+
+}
+.navbar ul{
+    display: flex;
+    gap: 30px;
+}

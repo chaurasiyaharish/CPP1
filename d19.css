@@ -1,0 +1,12 @@
+.main{
+    background-image: url(assets/bg.png);
+    height: 800px;
+    background-color: yellowgreen;
+    background-repeat: no-repeat;
+
+}
+.main1{
+    background-image: url(assets/goa_seen.png);
+    height: 100vh;
+    background-size: cover;
+}

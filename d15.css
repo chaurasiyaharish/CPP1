@@ -1,0 +1,32 @@
+.main{
+    /* background-color: yellow;
+    padding-left: 20PX;
+    padding-left: 20PX;
+    padding-bottom: 20PX;
+    padding-right: 30px; */
+    padding: 30px;
+    background-color: yellow;
+    border: 10px solid blue;
+    border-radius: 20;
+}
+.main1{
+    background-color: blue;
+    padding: 30px;
+    color: white;
+    margin-top: 20px;
+    border-left: 10px solid red;
+    /* display: flex; */
+
+}
+.main2{
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    /* box-shadow: 2px 4px 1px 12px brown; */
+    border-top-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+}
+.main .main1 .main2{
+    display: flex;
+    justify-content: center;
+}

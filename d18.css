@@ -1,0 +1,30 @@
+html{
+    scroll-behavior: smooth;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: yellow;
+    align-items: center;
+    position: static;
+    top: 0px;
+    width: 100%;
+
+}
+.navbar ul{
+    display: flex;
+    gap: 30px;
+
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: black;
+}
+.head{
+    background-color: red;
+}
+p{
+    word-spacing: 30px;
+    letter-spacing: 30px;
+    line-height: 50px;
+}
