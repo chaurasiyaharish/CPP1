@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../c++"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}

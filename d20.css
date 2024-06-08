@@ -3,6 +3,9 @@
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
+    text-align: center;
+    padding: 20px;
+    
 }
 .ch{
     height: 200px;
@@ -12,6 +15,7 @@
 }
 .ch1{
     background-color: green;
+    
 }
 .ch2{
     background-color: blue;

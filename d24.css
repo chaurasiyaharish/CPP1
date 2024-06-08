@@ -1,0 +1,30 @@
+*{
+margin: 0px;
+padding: 0px; 
+}
+.parent{
+    height: 100%;
+    background-color: aqua;
+    border: 2px solid black;
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+}
+.ch1{
+    border: 2px solid black;
+    height: ;
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
+.ch2{
+    border: 2px solid black;
+
+}
+.ch3{
+    border: 2px solid black;
+}
+.ch4{
+    border: 2px solid black;
+}
+.ch5{
+    border: 2px solid black;
+}
