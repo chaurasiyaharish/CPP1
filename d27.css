@@ -1,0 +1,19 @@
+.navbar{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+.navbar label{
+    display: none;
+}
+@media screen and (max-width:600px){
+    .navbar label{
+        display: block;
+    }
+}
