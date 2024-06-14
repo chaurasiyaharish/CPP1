@@ -1,13 +1,13 @@
 .navbar{
-    background-color: aqua;
+    background-color: bisque;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 .navbar ul{
     display: flex;
-    gap: 30px;
     list-style: none;
+    gap: 30px;
 }
 .navbar label{
     display: none;
@@ -15,15 +15,8 @@
 #demo:checked~.navbar ul{
     display: block;
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:600px) {
     .navbar{
-        height: 90px;
-    }
-    .navbar label{
         display: block;
-    }
-    .navbar ul{
-        display: none;
-        margin-top: 170px;
     }
 }
