@@ -25,7 +25,7 @@ img{
     width: 100%; 
    border-radius: 5px;
 }
-/* @keyframes slide {
+ @keyframes slide {
     0%{
         top:0px;
         left:0px;
@@ -46,4 +46,4 @@ img{
         left: 0px;
         top: 0px;
        }
-} */
+} 
