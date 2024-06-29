@@ -1,0 +1,21 @@
+$harish:red;
+.cantainer{
+    background-color: lightblue;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    ul
+    {
+        display: flex;
+        justify-content: space-between;
+        gap: 30px;
+        list-style: none;
+        color: $harish;
+    }
+    h2{
+        // position:absolute;
+        // left: 12px;
+    }
+
+}

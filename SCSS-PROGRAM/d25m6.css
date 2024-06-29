@@ -1,0 +1,14 @@
+.cantainer {
+  background-color: lightblue;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+.cantainer ul {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+  list-style: none;
+  color: red;
+}/*# sourceMappingURL=d25m6.css.map */
